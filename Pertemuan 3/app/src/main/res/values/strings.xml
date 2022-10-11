@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">activity</string>
-    <string name="button_main">Kirim</string>
-    <string name="text_header">Message Received</string>
-    <string name="editText_main">Masukan Text...</string>
-</resources>
